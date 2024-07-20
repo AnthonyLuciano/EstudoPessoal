@@ -1,0 +1,27 @@
+body{
+    border-style: solid;
+    border-width: 2px;
+    position: absolute;
+}
+.quadro1{
+    top: 0px;
+    width: 202px;
+    height: 100px;
+    background-color: yellow;
+}
+.quadro2{
+    top: 102px;
+    width: 100px;
+    height: 100px;
+    color: red;
+}
+.quadro3{
+    top: 102px;
+    left: 110px;
+    width: 100px;
+    height: 100px;
+    border-style: dotted;
+}
+div {
+    display: none;
+  }

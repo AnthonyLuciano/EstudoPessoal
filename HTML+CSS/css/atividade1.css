@@ -1,0 +1,14 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    color: green;
+}
+h3{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-style: italic;
+    color: purple;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}

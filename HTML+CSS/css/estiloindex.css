@@ -1,0 +1,36 @@
+body{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: black
+}
+#id1{
+    font-style: italic;
+}
+.class1{
+    font-size: 100px;
+}
+p{
+    font-size: 50px;
+}
+p#id1{
+    color: green;
+    text-align: center;
+    letter-spacing: 50%;
+}
+button {
+    background-color: green;
+    color: black;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  button:hover{
+    background-color: blueviolet;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
